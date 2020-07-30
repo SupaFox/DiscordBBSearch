@@ -3,7 +3,7 @@ Recherches effectuées le 30/07/'20, j'ai pu distinguer plusieurs attributs pott
 ## Prologue assez salé
 External Obfuscated Cloudflare API Injected | src > cdn-cgi/bm/cv/2172558837/api.js<br/>
 La reformation du du fichier attendu a été corrompu, il a donc fait un Call inattendu sur le WAF ce qui a invoqué l'API globale.<br/></br>
-<img src="https://media.discordapp.net/attachments/736536361258975253/738231871758008401/unknown.png?width=1519&height=890"/><br/>
+<img src="https://media.discordapp.net/attachments/738135945701753409/738256958066262016/unknown.png?width=1525&height=890"/><br/>
 ## Analyse ampiative
 Cloudflare résumé implémentation API Protection DDoS.<br/><br/>
 <img src="https://media.discordapp.net/attachments/736536361258975253/738229995339513866/unknown.png?width=1838&height=338"/><br/><br/>
